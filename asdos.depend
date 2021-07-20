@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585038176 source:c:\users\62822\documents\bram.c\asdos\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1585038473 source:e:\backup document\bram.c\asdos\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
